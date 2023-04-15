@@ -1,0 +1,5 @@
+{
+    "name": "lmo",
+    "fetch": "https://github.com/LMODroid/platform_packages_apps_FaceUnlock",
+    "revision": "refs/heads/thirteen"
+}
